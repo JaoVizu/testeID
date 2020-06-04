@@ -1,0 +1,1 @@
+Para ver o projeto basta abrir o arquivo index.html
